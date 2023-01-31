@@ -1,0 +1,19 @@
+{
+  "name": "pw2tarsemana2",
+  "version": "1.0.0",
+  "description": "Tarea_Semana2pw2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieSting/pw2TarSemana2.git"
+  },
+  "author": "Carlos Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieSting/pw2TarSemana2/issues"
+  },
+  "homepage": "https://github.com/CharlieSting/pw2TarSemana2#readme"
+}
