@@ -25,6 +25,6 @@ Encontrara metodos de mostrar nombres de peliculas, libros, consolas y de person
 
 
 
-![Jesus nos ayude con esta clase](https://thumbs.dreamstime.com/b/jesucristo-27641065.jpg)
+![Jesus nos ayude con esta clase](https://i.pinimg.com/236x/83/6b/d2/836bd2e7c5f9ae55dfd491df9af75c30.jpg)
 
-> Hola jesus, soy yo de nuevo — Friedrich Nietzsche
+> Hola jesus, soy yo de nuevo ayudame es esta clase — Carl Martin
