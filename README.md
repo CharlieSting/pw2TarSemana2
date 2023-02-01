@@ -17,4 +17,9 @@ Para la clase pelicula se tiene lo siguiente: nombre, duracion, director y gener
 > Sea libre de hacer lo que quiera con las clases que tambien tienen sus metodos.
 > 
 
+Encontrara metodos de mostrar nombres de peliculas, libros, consolas y de persona.
+
+
 ![Jesus nos ayude con esta clase](https://thumbs.dreamstime.com/b/jesucristo-27641065.jpg)
+
+> Hola jesus, soy yo de nuevo — Friedrich Nietzsche
