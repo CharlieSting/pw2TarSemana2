@@ -10,6 +10,7 @@ lstPersonas.push(persona1);
 lstPersonas.push(persona2);
 lstPersonas.push(persona3);
 
+
 // libro
 var Libro=require('./libro');
 
@@ -19,4 +20,28 @@ const libro2 = new Libro('El principito', 'Antoine de Saint-Exupéry', 'Minotaur
 var lstLibros=[];
 lstLibros.push(libro1);
 lstLibros.push(libro2);
+
+// consola
+var Consola=require('./consola');
+
+const consola1 = new Consola('Xbox', 'Microsoft', '2013', 500);
+const consola2 = new Consola('Playstation', 'Sony', '2015', 600);
+const consola3= new Consola('Nintendo', 'Switch', '2017', 700);
+
+var lstConsolas=[];
+lstConsolas.push(consola1);
+lstConsolas.push(consola2);
+lstConsolas.push(consola3);
+
+
+// pelicula
+var Pelicula=require('./pelicula');
+
+const pelicula1 = new Pelicula('El señor de los anillos', 290, 'Donald Trump' , 'Fantasia');
+const pelicula3= new Pelicula('Soldado Ryan', 123, 'Steven Spielberg', 'Guerra');
+
+var lstPeliculas=[];
+lstPeliculas.push(pelicula1);
+lstPeliculas.push(pelicula3);
+
 
