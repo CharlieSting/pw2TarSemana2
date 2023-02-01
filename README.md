@@ -1,6 +1,7 @@
-# pw2TarSemana2
+
 ## Descripcion de las clases solicitadas en javascript
 
+# Importante leer primero:
 - Clase Persona
 
 La clase persona tiene atributos: nombre, apellido, referencias edad y id.
@@ -23,7 +24,8 @@ Para la clase pelicula se tiene lo siguiente: nombre, duracion, director y gener
 
 Encontrara metodos de mostrar nombres de peliculas, libros, consolas y de persona.
 
-
+### En el archivo index.js esta la parte del CRUD
+Se encontrara filtos, creacion y delete de objetos creados.
 
 ![Jesus nos ayude con esta clase](https://i.pinimg.com/236x/83/6b/d2/836bd2e7c5f9ae55dfd491df9af75c30.jpg)
 
